@@ -15,6 +15,8 @@ Atendimento Automático: Menu interativo para reduzir a carga de trabalho manual
 
 Notificações de Prêmios: (Opcional) Envio de alertas quando o prêmio está acumulado.
 
+Compra em tempo real de mega-sena, quina, lotofácil, e.t.c
+
 🛠️ Tecnologias Utilizadas
 
 Node.js / Python (Dependendo da sua implementação)

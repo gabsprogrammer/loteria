@@ -39,7 +39,7 @@ Acesso à internet para validação do QR Code.
 
 Clone o repositório:
 
-git clone [https://github.com/seu-usuario/bot-loterica.git](https://github.com/seu-usuario/bot-loterica.git)
+git clone [https://github.com/xxxxxx/bot-loterica.git](https://github.com/xxxxx/bot-loterica.git)
 
 
 Instale as dependências:
